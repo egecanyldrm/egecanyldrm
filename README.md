@@ -1,16 +1,23 @@
-### Hi there 👋
+# Selam Ben Ege 👋, Ön uç geliştiricisiyim
 
-<!--
-**egecanyldrm/egecanyldrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Kişisel profilim :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• Bağımsız çalışabilme ve sürekli olarak yeni beceriler geliştirme konusunda doğal bir arzuya sahip olma.   
+
+• Ekip çalışmasına inanan. 
+
+• Kendi kendine hareket edebilen/motive olabilen.
+
+### FrontEnd becerilerim :
+
+• Kodlama dilleri: HTML, CSS(SCSS), Javascript
+
+• Framework/ Library : ReactJS (Redux), Bootstrap, Wordpress 
+
+• Tasarım Uygulamaları:  Photoshop, Figma 
+
+• Uzmanlık Alanları:  Dijital Pazarlama (Facebook ADS)
+
+
+**İletişime geçmek için** [Web sitemi ziyaret edebilirsin](https://egecanyildirim.com/)
