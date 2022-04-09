@@ -1,13 +1,5 @@
-# Selam Ben Ege 👋, Ön uç geliştiricisiyim
+# Selam Ben Ege 👋
 
-
-### Kişisel profilim :
-
-• Bağımsız çalışabilme ve sürekli olarak yeni beceriler geliştirme konusunda doğal bir arzuya sahip olma.   
-
-• Ekip çalışmasına inanan. 
-
-• Kendi kendine hareket edebilen/motive olabilen.
 
 ### FrontEnd becerilerim :
 
