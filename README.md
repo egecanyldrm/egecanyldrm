@@ -10,7 +10,8 @@ I am a Frontend developer with industry experience building websites and web app
 * 🖥️  See my portfolio at [egecanyildirim.com](http://egecanyildirim.com)
 * ✉️  You can contact me at [egecanyldrm@hotmail.com](mailto:egecanyldrm@hotmail.com)
 * 🧠  I'm learning React Native
-* ⚡  Also I'm develop backend project ( Node.js )
+* ⚡  Also I develop backend project with Node.js 
+
 
 ### Skills
 
