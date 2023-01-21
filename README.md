@@ -4,7 +4,7 @@ Hi 👋 My name is Egecan Yıldırım
 Frontend Developer
 ------------------
 
-I am a Frontend developer with industry experience building websites and web applications. I specialize in JavaScript and have professional experience working with React and Nodejs. I also have experience working with TypeScript.
+I am a frontend developer with work experience in ReactJs, NextJs and NodeJs. I am learning new technologies and improving myself in the field of frontend. I actively develop projects with NextJs and React Native and share them with other developers on my Github page. I can develop frontend applications with ReactJs and NextJs, while I can create Rest API services with ExpressJs(NodeJs).
 
 * 🌍  I'm based in Istanbul/Turkey
 * 🖥️  See my portfolio at [egecanyildirim.com](http://egecanyildirim.com)
